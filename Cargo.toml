@@ -1,0 +1,12 @@
+[package]
+name = "raytracingrust"
+version = "0.1.0"
+author = ["siyuanpan <pansiyuan.cs@gmail.com>"]
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+rand = "*"
+rayon = "1.5"
+image = "0.24.2"
